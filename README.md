@@ -2,6 +2,7 @@
 A common application of image processing or computer vision is a document scanner.
 They are typically used on mobiledevices. Maybe you have used one already. 
 we want a solution which does detect the document automatically and then provides a proper scan of the document. 
+References from Open-CV official documentation and learned a lot through a you tube channel
 
 Goals :
 For our scanner to work, we need to fulfil a three step algorithm:
